@@ -8,7 +8,7 @@ The Modern Chair project is dedicated to designing and developing a contemporary
 
 ## Contributing
 
-We welcome contributions from the community! If you're interested in enhancing the Modern Chair project, please read our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions from the community! If you're interested in enhancing the Modern Chair project.
 
 ## Contact
 
