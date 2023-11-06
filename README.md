@@ -4,7 +4,7 @@ Welcome to the Modern Chair project repository!
 
 ## Overview
 
-The Modern Chair project is dedicated to designing and developing a contemporary and stylish webpage that seamlessly blends aesthetics, comfort, and functionality.
+The Modern Chair project is dedicated to designing and developing a contemporary and stylish webpage that seamlessly blends aesthetics, functionality.
 
 ## Contributing
 
@@ -12,7 +12,7 @@ We welcome contributions from the community! If you're interested in enhancing t
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please don't hesitate to [contact us](mailto:adichamoli14@gmail.com)
+If you have any questions, suggestions, or feedback, please don't hesitate to [contact me](mailto:adichamoli14@gmail.com)
 
 Thank you for your interest in the Modern Chair project. We hope our chair brings a touch of modern elegance and comfort to your life!
 
